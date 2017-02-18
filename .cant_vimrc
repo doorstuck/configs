@@ -1,0 +1,1 @@
+nnoremap <F5> :!python3.5 ~/dev/cant_beat_twine/start.py ~/dev/beat_output/ /usr/bin/google-chrome<CR><CR>
