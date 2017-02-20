@@ -6,6 +6,7 @@ colorscheme solarized
 
 set laststatus=2
 
+set number
 set relativenumber
 set ignorecase
 set smartcase
