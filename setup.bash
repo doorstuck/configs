@@ -21,3 +21,4 @@ git clone https://github.com/tpope/vim-surround
 git clone https://github.com/kien/ctrlp.vim
 git clone https://github.com/altercation/vim-colors-solarized
 git clone https://github.com/bling/vim-airline
+echo "setxkbmap -option caps:escape" >> ~/.bashrc
